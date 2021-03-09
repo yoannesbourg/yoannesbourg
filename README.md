@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Yoann, a French & Brazilian Frontend developer and a Spanish resident.
+I'm Yoann,<br>
+French & Brazilian Frontend developer,<br>
+Spanish resident.
 <!--
 **yoannesbourg/yoannesbourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
