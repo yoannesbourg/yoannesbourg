@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 💓 REACT.<br>
 🤝 Open to work!<br>
 💬 Fluid French, Spanish, Portuguese & English.<br>
+🌊 Surf & Jam.<br>
 🤔 PERN stack would be so interesting if express was called oxpress.<br>
 
 
+### Salad Stack
 
 
 <img align="left" title="" alt="Html" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
