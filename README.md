@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Yoann, a Frontend developer
 <!--
 **yoannesbourg/yoannesbourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" title="" alt="Html" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/html.png"/>
+<img align="left" title="" alt="Css" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/css.png"/>
+<img align="left" title="" alt="Sass" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/sass.png"/>
+<img align="left" title="" alt="JavaScript" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/javascript.png"/>
+<img align="left" title="" alt="React" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/react.png"/>
+<img align="left" title="" alt="NextJS" width="46px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/nextjs.png"/>
+<img align="left" title="" alt="Redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/redux.png"/>
+<img align="left" title="" alt="Jest" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/jest.png"/>
+<img align="left" title="" alt="Express" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/express.png"/>
+<img align="left" title="" alt="PostgreSQL" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/postgres.png"/>
+<img align="left" title="" alt="Postman" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/postman.png"/>    
+<img align="left" title="" alt="Git" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/git.png"/>
+<img align="left" title="" alt="Github" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/github.png"/>
+<img align="left" title="" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/visual-studio-code.png"/>
