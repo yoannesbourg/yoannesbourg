@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yoann, a Frontend developer
+I'm Yoann, Frontend developer
 <!--
 **yoannesbourg/yoannesbourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
+
 🐘 I’m currently Bootcamping on PERN Stack. <br>
 💓 REACT.<br>
 🤝 Open to work!<br>
 💬 Fluid French, Spanish, Portuguese & English.<br>
 🤔 PERN stack would be so interesting if express was called oxpress.<br>
+
+
 
 
 <img align="left" title="" alt="Html" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
