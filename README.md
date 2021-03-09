@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/nextjs.png"/>
 <img align="left" title="" alt="Redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/redux.png"/>
-<img align="left" title="" alt="Express" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/node-express.png"/>
+<img align="left" title="" alt="Express" width="66px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/express-white.png"/>
 <img align="left" title="" alt="PostgreSQL" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="https://github.com/yoannesbourg/yoannesbourg/blob/main/assets/postgres.png"/>
 <img align="left" title="" alt="Git" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
