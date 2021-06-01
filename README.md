@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-🐘 I’m currently Bootcamping on PERN Stack. <br>
+🐘 PERN Stack. <br>
 💓 REACT.<br>
 🤝 Open to work!<br>
 💬 Fluid French, Spanish, Portuguese & English.<br>
