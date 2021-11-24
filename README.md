@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 🐘 MERN. <br>
-💓 REACT.<br>
 🤝 Open to work!<br>
 💬 Fluid French, Spanish, Portuguese & English.<br>
 🌊 Surf & Jam.<br>
