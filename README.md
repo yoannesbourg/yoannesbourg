@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-🐘 PERN / MERN Stack. <br>
+🐘 MERN. <br>
 💓 REACT.<br>
 🤝 Open to work!<br>
 💬 Fluid French, Spanish, Portuguese & English.<br>
